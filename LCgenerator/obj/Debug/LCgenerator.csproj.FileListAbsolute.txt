@@ -1,0 +1,8 @@
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\bin\LCgenerator.dll
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\bin\LCgenerator.pdb
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\bin\itextsharp.dll
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\bin\itextsharp.pdfa.dll
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\obj\Debug\LCgenerator.dll
+c:\users\shreej\documents\visual studio 2012\Projects\LCgenerator\LCgenerator\obj\Debug\LCgenerator.pdb
+C:\Users\Shreej\Documents\Visual Studio 2012\Projects\LCgenerator\LCgenerator\bin\LCgenerator.dll.config
+C:\Users\Shreej\Documents\Visual Studio 2012\Projects\LCgenerator\LCgenerator\obj\Debug\LCgenerator.csprojResolveAssemblyReference.cache
